@@ -1,0 +1,16 @@
+#main-header {
+    background-color: red;
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+
+#main-header .logo {
+    height: 32px;
+    width: 32px;
+}
+
+#main-header .title {
+    font-size: 1rem;
+    margin-left: 10px;
+}
