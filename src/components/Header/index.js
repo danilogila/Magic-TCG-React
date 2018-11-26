@@ -1,12 +1,11 @@
 import React from 'react';
 import './styles.css'
-import logo from './pokeball.png';
+import logo from './logo.png';
 
-console.log(logo);
 const Header = () => (
     <header id="main-header">
         <img src={logo} className={"logo"}/>
-        <h1 className={"title"} >Pokedash</h1>
+        <h1 className={"title"} >Magic The Gathering</h1>
     </header>
 );
 
